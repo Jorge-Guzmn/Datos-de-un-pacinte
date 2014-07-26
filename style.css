@@ -1,0 +1,25 @@
+input[type="text"]{
+    border: #666666 3px solid;
+    border-radius: 8px;
+}
+
+input[type="submit"]{
+    border-radius: 5px;
+}
+
+body{
+ background: orange;   
+}
+
+  
+.paso1 {
+ background: #99ff33;
+    padding: 10px;
+}
+
+.paso2 {
+    background: #00ccff;
+    padding: 10px;
+    
+}
+
